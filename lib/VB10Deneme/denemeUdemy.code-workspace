@@ -1,19 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../.."
-		},
-		{
-			"name": "FlutterLearn-VBacik-KasimAdalan",
-			"path": "../../../../Note/FlutterLearn-VBacik-KasimAdalan"
-		},
-		{
-			"name": "FlutterLearn-VBacik-KasimAdalan-1",
-			"path": "C:/Users/A/FlutterLearn-VBacik-KasimAdalan-1"
-		},
-		{
-			"name": "FlutterLearn-VBacik-KasimAdalan-2",
-			"path": "C:/Users/A/FlutterLearn-VBacik-KasimAdalan-2"
+			"path": "."
 		}
 	],
 	"settings": {}
